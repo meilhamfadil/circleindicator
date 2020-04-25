@@ -1,0 +1,2 @@
+rootProject.name='clircleindicator'
+include ':app'
